@@ -1,4 +1,4 @@
-# autorzy modułu Tree: https://www.cs.helsinki.fi/u/lmsalmel/algbio12/AfB_lecture2_06092012.pdf
+# authors(?) of Tree module: http://www.cs.unc.edu/~prins/Classes/555/Media/Lec05.pdf
 
 def NextLeaf(a, L, k):
     """odwiedza kolejny lisc
