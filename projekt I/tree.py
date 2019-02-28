@@ -1,3 +1,5 @@
+# autorzy modułu Tree: https://www.cs.helsinki.fi/u/lmsalmel/algbio12/AfB_lecture2_06092012.pdf
+
 def NextLeaf(a, L, k):
     """odwiedza kolejny lisc
     a - wezel drzewa = lista pozycji startowych w sekwencjach DNA
