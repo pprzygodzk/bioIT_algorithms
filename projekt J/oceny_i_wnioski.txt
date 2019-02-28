@@ -1,0 +1,11 @@
+Dla k = 3 blad kwadratowy sredni wynosi 2.599833333333333
+Dla k = 4 blad kwadratowy sredni wynosi 2.599833333333333
+Dla k = 5 blad kwadratowy sredni wynosi 2.599833333333333
+Dla k = 6 blad kwadratowy sredni wynosi 0.7623333333333334
+Dla k = 7 blad kwadratowy sredni wynosi 0.6688333333333333
+Dla k = 8 blad kwadratowy sredni wynosi 0.29949999999999993
+WNIOSKI:
+1) k = 8 jest najbardziej optymalna liczba klasterow, na ktore mozna podzielic dane
+2) im wieksze k, tym blad kwadratowy sredni jest mniejszy
+(punkt 2. moze nie byc ukazany na wynikach, gdyz wspolrzedne poczatkowych punktow centralnych sa losowane i moze zdarzyc sie tak,
+ze zaden z punktow w zestawie danych nie zostanie przyporzadkowany do jakiegos punktu centralnego, gdy jest zbyt daleko od calego zestawu)
