@@ -1,0 +1,7 @@
+Wykres przedstawia czas tworzenia i obsluzenia wszystkich elementow (os Y) dla roznej liczby danych (os X)
+rosnacej wykladniczo. Krzywa czarna przedstawia czas dzialania dla kolejki priorytetowej
+na zwyklej liscie, krzywa czerwona - na kopcu MAX, a krzywa zielona - na liscie z dowiazaniami.
+Najbardziej wydajna implementacja jest kopiec MAX, gdyz dla rosnacych wykladniczo danych czas dzialania
+wzrasta powoli (krzywa czerwona rosnie najwolniej). Najmniej wydajna implementacja jest lista
+z dowiazaniami, gdyz jej czas dzialania jest najwiekszy ze wszystkich kolejek oraz rosnie najszybciej
+dla rosnacych wykladniczo danych (krzywa szybko rosnie do gory).
