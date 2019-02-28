@@ -1,0 +1,4 @@
+SZUKANIE MOTYWU O D£UGOŒCI 78 W ZESTAWIE SEKWENCJI DNA:
+Wynik przeszukiwania metod¹ BranchAndBound: [2, 2, 1, 1, 1, 1, 0, 0, 1, 2]
+Wynik przeszukiwania metod¹ BruteForce: [2, 2, 1, 1, 1, 1, 0, 0, 1, 2]
+Wyniki reprezentuja pozycje startowe w sekwencjach DNA, dla których 78-mery tworz¹ motyw.
