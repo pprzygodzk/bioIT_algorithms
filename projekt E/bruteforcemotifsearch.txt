@@ -1,0 +1,3 @@
+METODA BRUTALNEJ SILY (sprawdza wszystkie motywy po kolei):
+Najdluzszy motyw w tym zestawie sekwencji ma dlugosc 77 i uzyskamy go z macierzy motywow w pozycjach startowych s: (2, 2, 3, 0, 1, 1, 0, 0, 1, 2)
+Score dla lancucha konsensusu tej macierzy wynosi: 366
